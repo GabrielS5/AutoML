@@ -1,0 +1,22 @@
+.bordered {
+    border-style: solid;
+    margin: 10px;
+    padding: 5px;
+}
+
+input {
+    margin: 7.5px;
+}
+
+.dropdownButton {
+    appearance: none;
+}
+
+.dropdownButton> :first-child {
+    visibility: hidden;
+    display: none;
+}
+
+.centered {
+    text-align: center
+}
